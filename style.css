@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* section{
+    width: 100%;
+} */
+
+#sec1 img{
+    height: 400px;
+
+}
+.green{
+    background-color: #336666;
+}
+
+.vert{
+    color: #336666;
+}
+/* #sec4{
+    background-color: #fa3333;
+} */
+#sec4 img{
+    width: 50px;
+    height: 50px;
+}
+#sec7{
+    background-color: #fa3333;
+    color: white;
+}
+#sec8 img{
+    height: 150px;
+
+}
+@media (max-width:991px){
+    #none{
+        display: none;
+    }
+}
